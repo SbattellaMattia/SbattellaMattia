@@ -4,12 +4,19 @@ Dottore Magistrale in Ingegneria Informatica e dell'Automazione (110/110 e Lode)
 
 Sono un appassionato di cybersecurity e sviluppo software, con particolare interesse per la creazione di applicazioni mobile e l'integrazione di sistemi di intelligenza artificiale. Mi piace affrontare sfide tecniche complesse e trasformare idee in prodotti completi e funzionanti.
 
-## 🚀 Di cosa mi occupo:
+## Di cosa mi occupo:
 
 🛡️ **Cybersecurity & AI**: sviluppo di strumenti di sicurezza offensiva, come l'integrazione di LLM ai tool DAST (es. progetto ZAPilot per Sigma). Partecipante alla Competizione Nazionale di Cybersecurity 2022 (11° su 34 squadre).<br>
+
+
 📱 **Mobile Development**: creazione e pubblicazione di app sugli store ufficiali (es. app *TDQ* su Apple App Store e Google Play), utilizzando tecnologie native e cross-platform come Kotlin, Android Studio e Flutter.<br>
+
+
 🤖 **AI & Generative Models**: integrazione di modelli AI in progetti pratici, come plugin per Blender basati su Stable Diffusion e ControlNet.<br>
+
+
 🏗️ **Architetture & Infrastrutture**: progettazione di sistemi distribuiti e architetture Zero-Trust aziendali utilizzando Docker e Kubernetes.
+
 
 **Se vuoi saperne di più consulta il mio [CV aggiornato](https://github.com/user-attachments/files/34026015/Cv_SbattellaMattia.pdf) ! 😄**<br>
 *(ultimo aggiornamento 27/10/2026)*
