@@ -1,13 +1,18 @@
 # 👋🏻 Ciao, sono Mattia Sbattella!
-Dottore in Ingegneria Informatica e dell'Automazione presso l'Università Politecnica delle Marche, attualmente iscritto al corso di Laurea Magistrale. Sono un appassionato di cybersecurity e sviluppo software, con particolare interesse per lo sviluppo di applicazioni mobile e l'intelligenza artificiale. Mi piace affrontare sfide tecniche complesse e trasformare idee in progetti concreti.
-## Di cosa mi occupo:
-🛡️ **Cybersecurity**: partecipante alla Competizione Nazionale di Cybersecurity 2022 (11° su 34 squadre).<br>
-📱 **Mobile Development**: creazione di app native e cross-platform con Android Studio e Flutter.<br>
-🤖 **AI & Machine Learning**: integrazione di modelli di intelligenza artificiale in progetti pratici.<br>
-🏗️ **Architetture distribuite**: progettazione di sistemi con Docker e Kubernetes.
 
-**Se vuoi saperne di più consulta il mio [Cv](https://github.com/user-attachments/files/24376067/Cv_SbattellaMattia.pdf) ! 😄**<br>
-*(ultimo aggiornamento 30/12/2025)*
+Dottore Magistrale in Ingegneria Informatica e dell'Automazione (110/110 e Lode) presso l'Università Politecnica delle Marche. Attualmente lavoro nel reparto **Ricerca & Sviluppo presso Sigma**. 
+
+Sono un appassionato di cybersecurity e sviluppo software, con particolare interesse per la creazione di applicazioni mobile e l'integrazione di sistemi di intelligenza artificiale. Mi piace affrontare sfide tecniche complesse e trasformare idee in prodotti completi e funzionanti.
+
+## 🚀 Di cosa mi occupo:
+
+🛡️ **Cybersecurity & AI**: sviluppo di strumenti di sicurezza offensiva, come l'integrazione di LLM ai tool DAST (es. progetto ZAPilot per Sigma). Partecipante alla Competizione Nazionale di Cybersecurity 2022 (11° su 34 squadre).<br>
+📱 **Mobile Development**: creazione e pubblicazione di app sugli store ufficiali (es. app *TDQ* su Apple App Store e Google Play), utilizzando tecnologie native e cross-platform come Kotlin, Android Studio e Flutter.<br>
+🤖 **AI & Generative Models**: integrazione di modelli AI in progetti pratici, come plugin per Blender basati su Stable Diffusion e ControlNet.<br>
+🏗️ **Architetture & Infrastrutture**: progettazione di sistemi distribuiti e architetture Zero-Trust aziendali utilizzando Docker e Kubernetes.
+
+**Se vuoi saperne di più consulta il mio [CV aggiornato](https://github.com/user-attachments/files/34026015/Cv_SbattellaMattia.pdf) ! 😄**<br>
+*(ultimo aggiornamento 27/10/2026)*
 
 
 
